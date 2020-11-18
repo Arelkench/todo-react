@@ -16,8 +16,8 @@ function App() {
             <div className="container pt-4">
               <Alert/>
               <Switch>
-                <Route path={'/todo-list---react/'} exact component={Home}/>
-                <Route path={'/todo-list---react/about'} component={About}/>
+                <Route path={'/todo-react/'} exact component={Home}/>
+                <Route path={'/todo-react/about'} component={About}/>
               </Switch>
             </div>
           </BrowserRouter>
