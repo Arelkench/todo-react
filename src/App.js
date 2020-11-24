@@ -11,7 +11,7 @@ function App() {
     return (
         <FirebaseState>
             <AlertState>
-                <BrowserRouter>
+                <BrowserRouter basename={'/todo-react/'}>
                     <Navbar/>
                     <div className="container pt-4">
                         <Alert/>
