@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/todo-react/static/css/main.98702ae1.chunk.css",
-    "main.js": "/todo-react/static/js/main.ceb22daa.chunk.js",
-    "main.js.map": "/todo-react/static/js/main.ceb22daa.chunk.js.map",
-    "runtime-main.js": "/todo-react/static/js/runtime-main.a745edf8.js",
-    "runtime-main.js.map": "/todo-react/static/js/runtime-main.a745edf8.js.map",
-    "static/js/2.378489e0.chunk.js": "/todo-react/static/js/2.378489e0.chunk.js",
-    "static/js/2.378489e0.chunk.js.map": "/todo-react/static/js/2.378489e0.chunk.js.map",
-    "static/js/3.fc359c80.chunk.js": "/todo-react/static/js/3.fc359c80.chunk.js",
-    "static/js/3.fc359c80.chunk.js.map": "/todo-react/static/js/3.fc359c80.chunk.js.map",
+    "main.js": "/todo-react/static/js/main.3d0eb778.chunk.js",
+    "main.js.map": "/todo-react/static/js/main.3d0eb778.chunk.js.map",
+    "runtime-main.js": "/todo-react/static/js/runtime-main.29f24ece.js",
+    "runtime-main.js.map": "/todo-react/static/js/runtime-main.29f24ece.js.map",
+    "static/js/2.048e5a1a.chunk.js": "/todo-react/static/js/2.048e5a1a.chunk.js",
+    "static/js/2.048e5a1a.chunk.js.map": "/todo-react/static/js/2.048e5a1a.chunk.js.map",
+    "static/js/3.5f6fed5c.chunk.js": "/todo-react/static/js/3.5f6fed5c.chunk.js",
+    "static/js/3.5f6fed5c.chunk.js.map": "/todo-react/static/js/3.5f6fed5c.chunk.js.map",
     "index.html": "/todo-react/index.html",
     "static/css/main.98702ae1.chunk.css.map": "/todo-react/static/css/main.98702ae1.chunk.css.map",
-    "static/js/2.378489e0.chunk.js.LICENSE.txt": "/todo-react/static/js/2.378489e0.chunk.js.LICENSE.txt"
+    "static/js/2.048e5a1a.chunk.js.LICENSE.txt": "/todo-react/static/js/2.048e5a1a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a745edf8.js",
-    "static/js/2.378489e0.chunk.js",
+    "static/js/runtime-main.29f24ece.js",
+    "static/js/2.048e5a1a.chunk.js",
     "static/css/main.98702ae1.chunk.css",
-    "static/js/main.ceb22daa.chunk.js"
+    "static/js/main.3d0eb778.chunk.js"
   ]
 }
