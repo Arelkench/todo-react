@@ -8,22 +8,22 @@ import {AlertState} from './context/alert/AlertState'
 import {FirebaseState} from './context/firebase/FirebaseState'
 
 function App() {
-  return (
-      <FirebaseState>
-        <AlertState>
-          <BrowserRouter>
-            <Navbar/>
-            <div className="container pt-4">
-              <Alert/>
-              <Switch>
-                <Route path={'/todo-react/'} exact component={Home}/>
-                <Route path={'/todo-react/about'} component={About}/>
-              </Switch>
-            </div>
-          </BrowserRouter>
-        </AlertState>
-      </FirebaseState>
-  );
+    return (
+        <FirebaseState>
+            <AlertState>
+                <BrowserRouter>
+                    <Navbar/>
+                    <div className="container pt-4">
+                        <Alert/>
+                        <Switch>
+                            <Route path={'/'} exact component={Home}/>
+                            <Route path={'/about'} component={About}/>
+                        </Switch>
+                    </div>
+                </BrowserRouter>
+            </AlertState>
+        </FirebaseState>
+    );
 }
 
 export default App;
